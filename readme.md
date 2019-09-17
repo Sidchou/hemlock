@@ -5,4 +5,4 @@ Visual 1 is based on the class example from the github page, but I mapped both "
 Visual 2 animate the "RawRingWidth_mm" from year 1579 to year 2000 so user can see the change over time.  
 ![Visual 2](visual_2.png)  
 Visual 3 runs an animation of a stack that grows higher and higher by adding the width of the newest year running from year 1579 to year 2000.  
-![Visual 2](visual_2.png)  
+![Visual 3](visual_3.png)  
